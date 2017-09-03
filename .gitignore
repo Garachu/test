@@ -1,0 +1,15 @@
+openapi.json
+swagger.json
+
+
+# Intellij
+*.iml
+.idea/
+
+
+# Maven
+target/
+
+#Tools Used
+#IntelliJ IDEA, Maven, Java 8
+
